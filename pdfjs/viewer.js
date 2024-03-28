@@ -27,7 +27,11 @@
 
 'use strict';
 
+<<<<<<< HEAD
 var DEFAULT_URL =  "UNIT1.pdf";
+=======
+var DEFAULT_URL =  "IP Unit-5.pdf";
+>>>>>>> 49fffcc05f7bc1074d7bf6a4c6663da81444c7f6
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
