@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # PDF Flipbook
 Convert your PDFs into interactive flipbooks using the Pdf flipbook converter powered by turnjs and pdfjs libraries.
@@ -46,3 +47,6 @@ var DEFAULT_URL =  "compressed.tracemonkey-pldi-09.pdf";
 =======
 # PdfViewer
 >>>>>>> dcc75d0c16540947f1412115af305f4db3f457c0
+=======
+# PdfViewer
+>>>>>>> 83b3881bc9bac16e2d3e17b78e461628f7010a25
