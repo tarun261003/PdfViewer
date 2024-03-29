@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "Introduction to Information Visualization.pdf";
+var DEFAULT_URL =  "DVT UNIT 5.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
