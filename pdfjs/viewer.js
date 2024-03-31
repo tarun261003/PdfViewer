@@ -28,7 +28,7 @@
 'use strict';
 
 
-var DEFAULT_URL =  "DAA UNIT - 1.pdf";
+var DEFAULT_URL =  "DAA - UNIT 1.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
