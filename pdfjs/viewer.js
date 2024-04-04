@@ -27,12 +27,7 @@
 
 'use strict';
 
-<<<<<<< HEAD
-var DEFAULT_URL =  "daa5.pdf";
-=======
-
-var DEFAULT_URL =  "DAA - UNIT 1.pdf";
->>>>>>> 89a61aad5e8dda74099ff651690bdcd9e3e840d1
+var DEFAULT_URL =  "DL Unit-1.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
